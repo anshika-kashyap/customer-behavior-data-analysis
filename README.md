@@ -11,9 +11,9 @@ Customer Behavior Data Analysis is the process of analyzing data to identify pat
 - Data Source: [Kaggle](https://www.kaggle.com/datasets/himelsarder/cinema-hall-ticket-sales-and-customer-behavior)
 
 ## Tools Used
-- Google Sheets
-- Tableau
-- Jupyter Notebook
+- Google Sheets (for data analysis)
+- Tableau (for data visualization)
+- Jupyter Notebook (for creating markdown documents)
 
 ## Project Timeline
 - The project took 3 days for completion.
