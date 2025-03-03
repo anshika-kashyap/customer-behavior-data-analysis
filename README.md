@@ -13,7 +13,7 @@ Customer Behavior Data Analysis is the process of analyzing data to identify pat
 ## Tools Used
 - Google Sheets
 - Tableau
-- PDF
+- Jupyter Notebook
 
 ## Project Timeline
 - The project took 3 days for completion.
@@ -38,4 +38,4 @@ Customer Behavior Data Analysis is the process of analyzing data to identify pat
 # About Repository
 
 ## Navigating The Repository
-- [](): -
+- [datasets](https://github.com/anshika-kashyap/customer-behavior-data-analysis/tree/main/datasets): Folder consisting raw dataset, cleaned dataset and information about datasets.
