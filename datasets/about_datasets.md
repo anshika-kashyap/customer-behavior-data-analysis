@@ -4,9 +4,11 @@
 
 The raw dataset consists detailed information about ticket sales and customer behavior at a cinema hall.
 
-- cinema_hall_ticket_sales.csv: the raw dataset.
-- cleaned_cinema_hall_ticket_sales.csv: the cleaned dataset.
-- cleaned_cinema_hall_ticket_sales_analysis.csv: the cleaned dataset, along with the basic data analysis
+- cinema_hall_ticket_sales.csv: The raw dataset.
+- cleaned_cinema_hall_ticket_sales.csv: The cleaned dataset.
+- cleaned_cinema_hall_ticket_sales_analysis.csv: The cleaned dataset, along with the basic data analysis
+
+The interactive Google Workbook can be accessed [here](https://docs.google.com/spreadsheets/d/1AFRHtJ6cEYuu3UAVLJMxcYf-qyxkubRy10_y1VFaOIc/edit?usp=sharing).
 
 ## Columns Descriptions
 
