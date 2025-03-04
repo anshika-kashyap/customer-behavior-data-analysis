@@ -7,7 +7,7 @@ Customer Behavior Data Analysis is the process of analyzing data to identify pat
 ## Overview
 - Project Name: Customer Behavior Data Analysis
 - Project Focus: Diagnostic Data Analysis
-- Project Goal: To analyze customer behavior and generate insights
+- Project Goal: To analyze why some customers rejected the idea of purchasing another movie tickets in the future and some agreed.
 - Data Source: [Kaggle](https://www.kaggle.com/datasets/himelsarder/cinema-hall-ticket-sales-and-customer-behavior)
 
 ## Tools Used
