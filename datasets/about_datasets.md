@@ -6,6 +6,7 @@ The raw dataset consists detailed information about ticket sales and customer be
 
 - cinema_hall_ticket_sales.csv: the raw dataset.
 - cleaned_cinema_hall_ticket_sales.csv: the cleaned dataset.
+- cleaned_cinema_hall_ticket_sales_analysis.csv: the cleaned dataset, along with the basic data analysis
 
 ## Columns Descriptions
 
