@@ -6,9 +6,9 @@ The raw dataset consists detailed information about ticket sales and customer be
 
 - cinema_hall_ticket_sales.csv: The raw dataset.
 - cleaned_cinema_hall_ticket_sales.csv: The cleaned dataset.
-- cleaned_cinema_hall_ticket_sales_analysis.csv: The cleaned dataset, along with the basic data analysis
+- cleaned_cinema_hall_ticket_sales_analysis.csv: The cleaned dataset, along with general data analysis.
 
-The interactive Google Workbook can be accessed [here](https://docs.google.com/spreadsheets/d/1AFRHtJ6cEYuu3UAVLJMxcYf-qyxkubRy10_y1VFaOIc/edit?usp=sharing).
+The interactive Google Workbook, consisting of Google Sheets, Pivot Tables and Charts, can be accessed [here](https://docs.google.com/spreadsheets/d/1AFRHtJ6cEYuu3UAVLJMxcYf-qyxkubRy10_y1VFaOIc/edit?usp=sharing).
 
 ## Columns Descriptions
 
@@ -28,3 +28,9 @@ The descriptions of the following columns are based on the raw dataset:
 - Purchase_Again: A binary target variable indicating whether the customer is likely to return and purchase another ticket. It has two possible values:
   - Yes: The customer is likely to return for another movie.
   - No: The customer is not likely to return.
+ 
+## Note
+
+Two new columns were added in the [cleaned_cinema_hall_ticket_sales_analysis.csv](https://github.com/anshika-kashyap/customer-behavior-data-analysis/blob/main/datasets/cleaned_cinema_hall_ticket_sales_analysis.csv) called:
+  - 'general data analysis': for statistical analysis.
+  - 'seat_type_num': for understanding possible correlation between 'seat_type' and 'purchase_again' columns.
