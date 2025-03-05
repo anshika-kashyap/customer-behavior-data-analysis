@@ -39,5 +39,6 @@ Customer Behavior Data Analysis is the process of analyzing data to identify pat
 
 ## Navigating The Repository
 - [datasets](https://github.com/anshika-kashyap/customer-behavior-data-analysis/tree/main/datasets): Folder consisting raw dataset, cleaned dataset, cleaned dataset analysis, information about datasets and link to Google Workbook.
+- [images](https://github.com/anshika-kashyap/customer-behavior-data-analysis/tree/main/images): Folder consisting all the Google Sheets charts and graphs as PNGs, and infomration about images.
 - [spreadsheet_work_report.md](https://github.com/anshika-kashyap/customer-behavior-data-analysis/blob/main/spreadsheet_work_report.md): Spreadsheet work report to track data analysis steps.
 - [insights_report.md](https://github.com/anshika-kashyap/customer-behavior-data-analysis/blob/main/insights_report.md): Final insights report to conclude the project.
