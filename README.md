@@ -22,7 +22,7 @@ Customer Behavior Data Analysis is the process of analyzing data to identify pat
   - Day 3: Dashboard and Insights Report Preparation
 
 ## Project Methodology
--   Importing neecsary libraries and Loading datasets
+-   Downloading datasets and understanding them thoroughly
 -   Executing Data Exploration
 -   Executing Data Preprocessing
 -   Executing Data Analysis
@@ -39,3 +39,5 @@ Customer Behavior Data Analysis is the process of analyzing data to identify pat
 
 ## Navigating The Repository
 - [datasets](https://github.com/anshika-kashyap/customer-behavior-data-analysis/tree/main/datasets): Folder consisting raw dataset, cleaned dataset, cleaned dataset analysis, information about datasets and link to Google Workbook.
+- [spreadsheet_work_report.md](https://github.com/anshika-kashyap/customer-behavior-data-analysis/blob/main/spreadsheet_work_report.md): Spreadsheet work report to track data analysis steps.
+- [insights_report.md](https://github.com/anshika-kashyap/customer-behavior-data-analysis/blob/main/insights_report.md): Final insights report to conclude the project.
