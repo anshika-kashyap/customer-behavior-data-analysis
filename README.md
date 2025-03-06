@@ -31,7 +31,7 @@ Customer Behavior Data Analysis is the process of analyzing data to identify pat
 
 ## Deliverables
 - Cleaned dataset
-- Detailed spreadsheets work report of the dataset
+- Detailed spreadsheets documentation report of the dataset
 - Insights report to share data analysis conclusions
 - Dashboard to understand insights report
 
