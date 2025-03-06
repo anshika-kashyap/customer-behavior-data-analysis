@@ -16,10 +16,10 @@ Customer Behavior Data Analysis is the process of analyzing data to identify pat
 - Jupyter Notebook (for creating markdown documents)
 
 ## Timeline
-- The project took 3 days for completion.
+- The project took 5 days for completion.
   - Day 1: Exploratory Data Analysis [EDA] & Data Cleaning
-  - Day 2: Data Analysis
-  - Day 3: Insights Report and Dashboard Preparation
+  - Day 2 and Day 3: Data Analysis
+  - Day 4 and Day 5: Insights Report and Dashboard Preparation
 
 ## Methodology
 -   Downloading datasets and understanding them thoroughly
