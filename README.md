@@ -15,13 +15,13 @@ Customer Behavior Data Analysis is the process of analyzing data to identify pat
 - Tableau (for dashboard preparation)
 - Jupyter Notebook (for creating markdown documents)
 
-## Project Timeline
+## Timeline
 - The project took 3 days for completion.
   - Day 1: Exploratory Data Analysis [EDA] & Data Cleaning
   - Day 2: Data Analysis
   - Day 3: Insights Report and Dashboard Preparation
 
-## Project Methodology
+## Methodology
 -   Downloading datasets and understanding them thoroughly
 -   Executing Data Exploration
 -   Executing Data Preprocessing
@@ -29,7 +29,7 @@ Customer Behavior Data Analysis is the process of analyzing data to identify pat
 -   Drawing Conclusions
 -   Creating Dashboard and Insights Report
 
-## Project Deliverables
+## Deliverables
 - Cleaned dataset
 - Detailed spreadsheets work report of the dataset
 - Insights report to share data analysis conclusions
@@ -37,8 +37,7 @@ Customer Behavior Data Analysis is the process of analyzing data to identify pat
 
 # About Repository
 
-## Navigating The Repository
 - [datasets](https://github.com/anshika-kashyap/customer-behavior-data-analysis/tree/main/datasets): Folder consisting raw dataset, cleaned dataset, cleaned dataset analysis, information about datasets and link to Google Workbook.
 - [images](https://github.com/anshika-kashyap/customer-behavior-data-analysis/tree/main/images): Folder consisting all the Google Sheets charts and graphs as PNGs, and information about the images.
-- [report_and_dashboard](https://github.com/anshika-kashyap/customer-behavior-data-analysis/tree/main/report_and_dashboard): Folder consisting final insights report, Tableau dashboard PDF and information about the report and the dashboard, to conclude the project.
+- [report_and_dashboard](https://github.com/anshika-kashyap/customer-behavior-data-analysis/tree/main/report_and_dashboard): Folder consisting final insights report, Tableau dashboard PDF and information about the report, dashboard and link to the dashboard, to conclude the project.
 - [spreadsheet_work.md](https://github.com/anshika-kashyap/customer-behavior-data-analysis/blob/main/spreadsheet_work.md): Spreadsheet work documentation to track exploratory data analysis, data cleaning and data analysis procedure.
