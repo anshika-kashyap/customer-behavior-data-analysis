@@ -1,4 +1,4 @@
-# Spreadsheet Work Report
+# Spreadsheet Work
 
 ## Exploratory Data Analysis (EDA)
 
