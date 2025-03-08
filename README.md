@@ -24,7 +24,7 @@ Customer Behavior Data Analysis is the process of analyzing data to identify pat
 ## Methodology
 -   Downloading datasets and understanding them thoroughly
 -   Executing Data Exploration
--   Executing Data Preprocessing
+-   Executing Data Cleaning
 -   Executing Data Analysis
 -   Drawing Conclusions
 -   Creating Insights Report and Dashboard
