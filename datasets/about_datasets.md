@@ -8,7 +8,7 @@ The raw dataset consists detailed information about ticket sales and customer be
 - cleaned_cinema_hall_ticket_sales.csv: The cleaned dataset.
 - cleaned_cinema_hall_ticket_sales_analysis.csv: The cleaned dataset, along with general data analysis.
 
-The interactive Google Workbook, consisting of Google Sheets, Pivot Tables and Charts, can be accessed [here](https://docs.google.com/spreadsheets/d/1AFRHtJ6cEYuu3UAVLJMxcYf-qyxkubRy10_y1VFaOIc/edit?usp=sharing).
+The interactive Google Workbook, consisting of Google Sheets, Pivot Tables and Charts, can be accessed [here](https://docs.google.com/spreadsheets/d/1AFRHtJ6cEYuu3UAVLJMxcYf-qyxkubRy10_y1VFaOIc/preview).
 
 ## Columns Descriptions
 
